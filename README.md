@@ -4,7 +4,7 @@ A comprehensive collection of Solana blockchain skills for Kimi CLI, covering de
 
 ## 📦 What's Included
 
-### 1. solana-development.skill ($49 value)
+### 1. solana-development.skill
 Complete Solana program development guide with:
 - Anchor Framework 0.32+ patterns
 - Native Rust program development
@@ -13,7 +13,7 @@ Complete Solana program development guide with:
 - Security best practices
 - @solana/kit v2 client examples
 
-### 2. solana-operations.skill ($29 value)
+### 2. solana-operations.skill 
 Master Solana infrastructure with:
 - Solana CLI complete reference
 - Helius API integration (enhanced RPC, webhooks)
@@ -21,7 +21,7 @@ Master Solana infrastructure with:
 - Wallet management & staking operations
 - Transaction monitoring
 
-### 3. solana-defi.skill ($69 value)
+### 3. solana-defi.skill 
 Build DeFi applications with:
 - Jupiter V6 API (swaps, limit orders, DCA)
 - Raydium AMM & CLMM patterns
