@@ -60,9 +60,6 @@ Team/organization licenses available.
 For questions or issues:
 - Email: [tubb327@gmail.com]
 
----
-
-**Total Value**: $147  
 **Bundle Price**: $99 (33% off)
 
 Built with ❤️ for the Solana ecosystem.
